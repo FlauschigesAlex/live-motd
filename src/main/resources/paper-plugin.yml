@@ -1,0 +1,7 @@
+name: '${project.artifactId}'
+version: '${project.version}'
+api-version: "1.21"
+main: at.flauschigesalex.live_motd.minecraft.paper.PaperLiveMotdPlugin
+authors:
+  - "FlauschigesAlex"
+website: "https://modrinth.com/plugin/live-motd"

@@ -1,0 +1,10 @@
+{
+  "id": "life-motd",
+  "name": "${project.artifactId}",
+  "version": "${project.version}",
+  "main": "at.flauschigesalex.live_motd.minecraft.velocity.VelocityLiveMotdPlugin",
+  "authors": [
+    "FlauschigesAlex"
+  ],
+  "dependencies": []
+}
