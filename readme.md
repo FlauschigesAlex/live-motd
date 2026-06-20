@@ -6,8 +6,8 @@ A quick and easy way to display a live, customizable MOTD on your server.
 
 
 ### Supported platforms & versions
-- [Paper](https://papermc.io/software/paper/) Versions: 1.21.10 - 26.1.2
-- [PurpurMC](https://purpurmc.org/) Versions: 1.21.10 - 26.1.2
+- [Paper](https://papermc.io/software/paper/) Versions: 1.21.10 - 26.2
+- [PurpurMC](https://purpurmc.org/) Versions: 1.21.10 - 26.2
 - [Velocity](https://velocitypowered.com/) Versions: 3.4.0 - 3.5.0
 
 Although live-motd may work on other platforms or versions, I do not guarantee for their stability or functionality.
